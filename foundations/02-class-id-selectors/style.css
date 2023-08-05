@@ -1,0 +1,20 @@
+.par {
+    background-color: rgb(240, 169, 161);
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.large {
+    font-size: 40px;
+}
+
+#div1 {
+    color: blue;
+    font-size: 60px;;
+}
+
+#div2 {
+    background-color: rgb(125, 202, 105);
+    font-size: 35px;
+    font-weight: bold;
+}
